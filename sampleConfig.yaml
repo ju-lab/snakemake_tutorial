@@ -1,0 +1,7 @@
+samples:
+    AA01_001_T_G::
+        fq1: /home/users/cjyoon/scripts/snakemake_tutorial/fastq/1_R1.fastq.gz
+        fq2: /home/users/cjyoon/scripts/snakemake_tutorial/fastq/1_R1.fastq.gz
+    AA01_002_N_G::
+        fq1: /home/users/cjyoon/scripts/snakemake_tutorial/fastq/2_R1.fastq.gz
+        fq2: /home/users/cjyoon/scripts/snakemake_tutorial/fastq/2_R1.fastq.gz
